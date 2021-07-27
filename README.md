@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @evabonita86
 - 👀 I’m interested in visual arts and music
 - 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on a video game or story
+- 💞️ I’m looking to collaborate on a video game or visual media creation
 - 📫 How to reach me is through evabonita08@gmail.com
 
 <!---
